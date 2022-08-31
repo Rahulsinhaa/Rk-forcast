@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rk-forcast/static/css/main.e6c13ad2.css",
+    "main.js": "/Rk-forcast/static/js/main.f23b87c0.js",
+    "static/js/787.541ebd46.chunk.js": "/Rk-forcast/static/js/787.541ebd46.chunk.js",
+    "index.html": "/Rk-forcast/index.html",
+    "main.e6c13ad2.css.map": "/Rk-forcast/static/css/main.e6c13ad2.css.map",
+    "main.f23b87c0.js.map": "/Rk-forcast/static/js/main.f23b87c0.js.map",
+    "787.541ebd46.chunk.js.map": "/Rk-forcast/static/js/787.541ebd46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f23b87c0.js"
+  ]
+}
